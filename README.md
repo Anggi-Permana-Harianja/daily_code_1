@@ -1,5 +1,6 @@
 # daily_code_1
-daily coding problem day 1
+daily coding problem day 1 from dailycodingproblem.com
+
 Good morning! Here's your coding interview problem for today.
 
 This problem was recently asked by Google.
